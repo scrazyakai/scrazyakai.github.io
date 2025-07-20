@@ -6,8 +6,7 @@ modules:
   - MdContent
   - Footer
 bannerBrand:
-  bgImage: 'https://akainews.oss-cn-beijing.aliyuncs.com/background.png'
-  bgImageDark: 'https://akainews.oss-cn-beijing.aliyuncs.com/blackbackground.png'
+  bgImage: 'https://akainews.oss-cn-beijing.aliyuncs.com/blackbackground.png'
   title: Recursion的博客
   description: 记录代码历程
   tagline: 
